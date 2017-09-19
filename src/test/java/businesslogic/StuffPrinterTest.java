@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import main.java.businesslogic.StuffPrinter;
 
-public class StuffPrinterTester {
+public class StuffPrinterTest {
 	
 	StuffPrinter printer = new StuffPrinter(); 
 
